@@ -21,17 +21,15 @@ Each day, I will add a new folder from **Day 1** to **Day 30**, containing:
 
 - **Verilog Code**: Implementation of the day's digital circuit in Verilog.
 - **README**: Explanation of the circuit, its purpose, and my approach.
-- **Simulation**: Simulation results, waveforms, and testbenches (if applicable).
+- **Simulation**: Simulation results, waveforms, and test benches (if applicable).
 - **Reflections**: Insights and lessons learned during the implementation.
 
 Feel free to follow along, offer suggestions, or learn from my progress!
 
 ## Table of Contents
 
-- [Day 1: Circuit Name](./Day01)
-- [Day 2: Circuit Name](./Day02)
-- ...
-- [Day 30: Circuit Name](./Day30)
+- [Day 1: Half Adder & Full Adder](./Day1)
+
 
 ## Let's Connect
 
@@ -39,7 +37,7 @@ I'd love to share my journey with you and connect with fellow Verilog enthusiast
 
 - Follow me on [GitHub](https://github.com/akashtailor-exe) to stay updated.
 - Connect on [LinkedIn](https://www.linkedin.com/in/akash-tailor) for more discussions.
-- Reach out via email at [youremail@example.com](mailto:tailorakash2320@gmail.com).
+- Reach out via email at [tailorakash2320@gmail.com](mailto:tailorakash2320@gmail.com).
 
 ## Stay Tuned
 
