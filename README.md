@@ -29,7 +29,7 @@ Feel free to follow along, offer suggestions, or learn from my progress!
 ## Table of Contents
 
 - [Day 1: Half Adder & Full Adder](./Day1)
-
+- [Day 2: Ripple Carry Adder](./Day2)
 
 ## Let's Connect
 
