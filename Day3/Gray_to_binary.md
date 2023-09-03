@@ -45,7 +45,7 @@ endmodule
 ```
 
 ## Schematics
-![Alt Text](https://i.ibb.co/g9X3fjc/bin_to_gray.png)
+![Alt Text](https://i.ibb.co/KXvyssC/gray_to_bin.png)
 
 ## Simulation
-![Alt Text](https://i.ibb.co/hyMRGr6/Bin_to_gray_simu.png)
+![Alt Text](https://i.ibb.co/FqDkBLC/gray_to_bin_simu.png)
