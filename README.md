@@ -32,6 +32,14 @@ Feel free to follow along, offer suggestions, or learn from my progress!
 - [Day 2: Ripple Carry Adder](./Day2)
 - [Day 3: Code Conversion(Gray & Binary)](./Day3)
 - [Day 4: Multiplexers](./Day4)
+- [Day 5: Demultiplexers](./Day5)
+- [Day 6: Encoders](./Day6)
+- [Day 7: Decoders](./Day7)
+- [Day 8: Latches](./Day8)
+- [Day 9: Flip-flops](./Day9)
+- [Day 10: Comparators](./Day10)
+- [Day 11: Shift Registers (1)](./Day11)
+- [Day 12: Shift Registers (2)](./Day12)
 
 ## Let's Connect
 
