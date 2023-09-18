@@ -37,9 +37,15 @@ Feel free to follow along, offer suggestions, or learn from my progress!
 - [Day 7: Decoders](./Day7)
 - [Day 8: Latches](./Day8)
 - [Day 9: Flip-flops](./Day9)
-- [Day 10: Comparators](./Day10)
-- [Day 11: Shift Registers (1)](./Day11)
-- [Day 12: Shift Registers (2)](./Day12)
+- [Day 10: Comparators](./Day_10)
+- [Day 11: Shift Registers (1)](./Day_11)
+- [Day 12: Shift Registers (2)](./Day_12)
+- [Day 13: Counters](./Day_13)
+- [Day 14: MOD-N Counter](./Day_14)
+- [Day 15: Gray Counter](./Day_15)
+- [Day 16: Booth Multiplier](./Day_16)
+- [Day 17: 1-bit RAM cell](./Day_17)
+- [Day 18: 4-Bit & 8-Bit RAM](./Day_18)
 
 ## Let's Connect
 
