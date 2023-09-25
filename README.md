@@ -46,6 +46,13 @@ Feel free to follow along, offer suggestions, or learn from my progress!
 - [Day 16: Booth Multiplier](./Day_16)
 - [Day 17: 1-bit RAM cell](./Day_17)
 - [Day 18: 4-Bit & 8-Bit RAM](./Day_18)
+- [Day 19: 1,4,8-Bit ROM](./Day_19)
+- [Day 20: 8-Bit ALU](./Day_20)
+- [Day 21: 1101 Moore Sequence Detector](./Day_21)
+- [Day 22: 1010 Mealy Sequence Detector](./Day_22)
+- [Day 23: PWM (Pulse Width Modulation) generator](./Day_23)
+- [Day 24: Fixed Priority Arbiter](./Day_24)
+- [Day 25: Round-Robin Arbiter](./Day_25)
 
 ## Let's Connect
 
