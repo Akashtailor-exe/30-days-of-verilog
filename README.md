@@ -1,5 +1,7 @@
 # 30 Days of Verilog
 
+### Repo is not updating daily. I am posting consistently on Linkedin
+
 <p align="center">
   Embark on a journey through 30 days of Verilog exploration! 🌟
 </p>
