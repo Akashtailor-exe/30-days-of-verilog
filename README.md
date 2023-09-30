@@ -55,6 +55,11 @@ Feel free to follow along, offer suggestions, or learn from my progress!
 - [Day 23: PWM (Pulse Width Modulation) generator](./Day_23)
 - [Day 24: Fixed Priority Arbiter](./Day_24)
 - [Day 25: Round-Robin Arbiter](./Day_25)
+- [Day 26: Pseudorandom number generator](./Day_26)
+- [Day 27: Frequency Divider by Even Numbers](./Day_27)
+- [Day 28: Traffic Light Controller](./Day_28)
+- [Day 29: Elevator Controller](./Day_29)
+- [Day 30: Factorial](./Day_30)
 
 ## Let's Connect
 
